@@ -1,0 +1,2 @@
+123,panadol,20mg,liquid,200,2,8
+345,flygel,20mg,tablet,200,2,30
